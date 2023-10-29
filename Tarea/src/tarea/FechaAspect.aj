@@ -22,4 +22,4 @@ import org.aspectj.lang.annotation.Pointcut;;
 	    System.out.println("Fecha y hora actual después del cambio de color (" + color.toString() + "): " + formattedDateTime);
 	}
 	}
-}
+	
